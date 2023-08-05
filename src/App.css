@@ -12,3 +12,8 @@ body {
 }
 
 /* Write your CSS code here */
+.container {
+  margin: 30px;
+  border: 3px solid #6d396b;
+  border-radius: 10px;
+}
